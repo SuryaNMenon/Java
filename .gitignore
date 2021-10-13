@@ -24,5 +24,3 @@ hs_err_pid*
 
 # Sandbox file
 sandbox*
-/Applets/target/
-Applets/
